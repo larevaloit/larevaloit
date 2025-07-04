@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on as many projects as I can.
 - 📫 How to reach me? larevaloit@gmail.com
-- 😄 Pronouns: He/him/his.
 - ⚡ Fun fact: I love going to the beach.
 
 <!---
